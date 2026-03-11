@@ -1,0 +1,4 @@
+git add yarn.lock
+git commit -m "Add yarn lockfile for EAS build"
+git push origin main
+
