@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Swipe Challenge Game",
+    "slug": "swipe-challenge-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "extra": {
+      "eas": {
+        "projectId": "d687947e-2f55-4849-a323-89aaab7eb172"
+      }
+    },
+
+    "android": {
+      "package": "com.swipe.challenge"
+    },
+
+    "ios": {
+      "bundleIdentifier": "com.swipe.challenge"
+    }
+  }
+}
